@@ -1,6 +1,17 @@
 # Project: Messenger (aka Chatroom)
 
-### group-reactjs-16
+###### Geekbrains course: group-reactjs-16
+
+***
+
+Via this app you can:
+- register;
+- send messages to different chatrooms;
+- -> a bot answers if your message is sent succesfully;
+- create chatrooms;
+- see a new message icon (if any) next to an inactive chatroom;
+
+***
 
 To start project:
 `npm start`
